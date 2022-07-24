@@ -1,2 +1,2 @@
 # SKIN-AI
- [SKIN-AI](https://skin-ai-proto.netlify.app/)
+ [SKIN-AI 링크](https://skin-ai-proto.netlify.app/)
