@@ -1,0 +1,6 @@
+*.exe
+
+images-crawling-preprocessing/downloads
+images-crawling-preprocessing/output
+
+web/docs
