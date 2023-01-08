@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/90181028/206637646-3c9568ae-efb7-46af-a6a2-f13c12d9eda1.png)
 
-## 📌 Modeling
+## 👾 Modeling
 
 ### 데이터 수집 및 전처리
 - Google, Naver, DermNet을 크롤링하여 총 15000장의 점과 흑색종의 이미지 데이터를 확보
@@ -53,6 +53,8 @@
 - 구글의 오픈소스 인공지능 툴, `Teachable Machine`을 사용
 - Epoch, Batch Size, Learning Rate 총 3가지 Hyper Parameter 변화에 따른 분류 성능을 측정 후 최적화 작업 진행
 - 성능평가 지표로는 Accuracy와 Loss값을 사용해 최적화 작업 진행
+
+![image](https://user-images.githubusercontent.com/90181028/211203581-7dc48d20-15eb-496a-9e49-b97c617bd960.png)
 
 ![image](https://user-images.githubusercontent.com/90181028/211203245-da35d8a3-e2fe-437d-8e88-3fc463c67fb1.png)
 
