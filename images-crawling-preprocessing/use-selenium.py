@@ -12,7 +12,7 @@ driver = webdriver.Chrome(options=options)
 driver.get("https://www.google.co.kr/imghp?hl=ko&ogbl")
 
 # ftype = "jpg"
-searchWord = "현아"
+searchWord = "건선"
 stopPoint = 5
 
 elem = driver.find_element_by_name("q")
