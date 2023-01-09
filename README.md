@@ -35,6 +35,10 @@
 
 - 진단 모델에서 사진을 분류한 후 결과를 출력한다.
 
+## 🛠 Tech Stack
+
+`HTML`, `CSS`, `JavaScript`, `Teachable Machine`, `Google Cloud`, `TensorFlowJs`, `Python`, `Hitpaw`
+
 ## ⚙️ System Architecture
 
 ![image](https://user-images.githubusercontent.com/90181028/206637646-3c9568ae-efb7-46af-a6a2-f13c12d9eda1.png)
